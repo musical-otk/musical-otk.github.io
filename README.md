@@ -5,5 +5,6 @@
 
 - `apps.json` — 허브(otk-schedule)가 읽는 폴더 목록
   - `{ "path": "ever2026/" }` — 작품 앱 (manifest·index.html 에서 이름·색·기록 키를 읽는다)
-  - `{ "path": "hwinter2026/", "app": false }` — 앱 없는 기타 공연. 폴더에 `show.json` + `schedule.json` 만
+  - `{ "path": "extras/hwinter2026.json", "app": false }` — 앱 없는 기타 공연(콘서트 등). `extras/` 에 공연마다 파일 하나
+    (`name`·`icon`·`venue`·`price`·`url` + `schedule` 배열 — 회차마다 `cast1`, `cast2` …)
 - `index.html` — 지금은 허브로 넘기기만 한다
