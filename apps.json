@@ -106,5 +106,9 @@
   {
     "path": "shows/nof2026.json",
     "app": false
+  },
+  {
+    "path": "shows/jc2026.json",
+    "app": false
   }
 ]
