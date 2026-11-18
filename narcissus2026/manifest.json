@@ -1,0 +1,29 @@
+{
+  "name": "나르치스와 골드문트 관극 다이어리",
+  "short_name": "나르치스와 골드문트",
+  "alias": "날골 나르치스 골드문트 나르치스와골드문트 Narziss Goldmund",
+  "description": "뮤지컬 나르치스와 골드문트 2026-2027 관람 기록 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EFE9DF",
+  "theme_color": "#9A6A2F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
