@@ -258,6 +258,54 @@
       ],
       "description": "각 배우의 첫 공연 종료 후 무대인사",
       "url": "https://x.com/gleam__company/status/2122283601350009226"
+    },
+    {
+      "name": "크리스마스 기념 커튼콜위크",
+      "startDate": "2026-12-24",
+      "endDate": "2026-12-27",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
+    },
+    {
+      "name": "더블 적립 위크",
+      "startDate": "2026-12-29",
+      "endDate": "2027-01-03",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
+    },
+    {
+      "name": "새해맞이 이집트 스카라베 부적 증정",
+      "startDate": "2026-12-29",
+      "endDate": "2027-01-03",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
+    },
+    {
+      "name": "스페셜 커튼콜",
+      "startDate": "2027-01-05",
+      "endDate": "2027-01-06",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
+    },
+    {
+      "name": "이드 알 밀라드(이집트의 성탄절)",
+      "startDate": "2027-01-07",
+      "endDate": "2027-01-07",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
+    },
+    {
+      "name": "스페셜 커튼콜",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-10",
+      "color": "#C9A227",
+      "description": "상세 추후 공지",
+      "url": "https://x.com/gleam__company/status/2125409145235161198"
     }
   ]
 }
